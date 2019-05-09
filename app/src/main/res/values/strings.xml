@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExcelToJsonAPP</string>
+    <string name="stringqout">\":\"</string>
+</resources>
