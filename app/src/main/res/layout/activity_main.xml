@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity">
+    
     <TextView
         android:textSize="32sp"
         android:layout_margin="7sp"
@@ -16,7 +17,7 @@
         android:textColor="#5148ff"
         android:text="json file ready!!"
 
-        
+
         />
 
 <ImageView
